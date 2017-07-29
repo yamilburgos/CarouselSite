@@ -104,6 +104,26 @@ nav li {
 	background: url("../img/slide-background.jpg") center center;
 }
 
+@keyframes slideRightOut {
+  	0% { transform: translate(0);}
+	100% { transform: translate(100vw);}
+}
+
+@keyframes slideLeftOut {
+	0% { transform: translate(0);}
+  	100% { transform: translate(-100vw);}
+}
+
+@keyframes slideRightIn {
+  	0% { transform: translate(-100vw);}
+	100% { transform: translate(0);}
+}
+
+@keyframes slideLeftIn {
+  	0% { transform: translate(100vw);}
+  	100% { transform: translate(0);}
+}
+
 .slide-text {
 	width: inherit;
 	text-align: center;
