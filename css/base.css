@@ -20,7 +20,6 @@
 	}
 }
 
-
 body{
 	background-color:#e2e2e2;
 }
@@ -101,7 +100,7 @@ nav li {
 }
 
 .main-carousel {
-	background: url("../img/slide-background.jpg") center center;
+	background: url("/img/slide-background.jpg") center center;
 }
 
 @keyframes slideRightOut {
