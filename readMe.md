@@ -5,7 +5,7 @@
 
 	https://yamilburgos.github.io/CarouselSite
 
-![](demo.png)
+![](demo.PNG)
 
 ## Meta
 [Yamil Burgos](https://github.com/yamilburgos/) – yamil.burgos1293@gmail.com
