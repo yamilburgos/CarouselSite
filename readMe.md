@@ -1,4 +1,4 @@
-# SaturnSite
+# CarouselSite
 > A basic site displaying carousel functionality.
 
 [![Build Status][travis-image]][travis-url]
